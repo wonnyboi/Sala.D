@@ -1,5 +1,6 @@
 # Sala.D
 
+-------
 - 소개 영상 
 
     <img src="./Sala.D_intro.gif">
@@ -45,6 +46,7 @@
     <img src="./web/rec_2.png">
     
     <img src="./web/rec_detail.png">
+------
 
 ## 일정표
 
