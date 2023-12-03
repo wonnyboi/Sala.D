@@ -1,4 +1,7 @@
-# Last_project
+# Sala.D
+
+    <img src="./Sala.D_intro.gif">
+
 
 ## 일정표
 
@@ -77,7 +80,7 @@ git branch '(back/front)_기능' 으로 branch 생성
 2023/11/16
 ------------------
 
-보안해야 할 점 :
+보완해야 할 점 :
 1. 찾는 지역에 해당 은행이 없을 경우에 '해당 은행이 없습니다' 메세지 출력 _ KakaoMap.vue
 2. CSS
 
