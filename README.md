@@ -1,8 +1,50 @@
 # Sala.D
 
--
+- 소개 영상 
+
     <img src="./Sala.D_intro.gif">
 
+- 회원가입
+
+    <img src="./web/signup.png">
+
+- 홈페이지
+
+    <img src="./web/homepage.png">
+
+- 예적금 리스트
+
+    <img src="./web/finance_item.png">
+
+    <img src="./web/finance_detail.png">
+
+- 커뮤니티
+
+    <img src="./web/posting.png">
+
+    <img src="./web/posting_edit.png">
+
+- 주변 은행 찾아보기
+
+    <img src="./web/bank_search.png">
+
+- 환율 계산기
+
+    <img src="./web/exchange.png">
+
+- 프로필
+
+    <img src="./web/profile_page_1.png">
+
+    <img src="./web/profile_page_2.png">
+
+- 차량/금융상품 추천
+
+    <img src="./web/rec_1.png">
+
+    <img src="./web/rec_2.png">
+    
+    <img src="./web/rec_detail.png">
 
 ## 일정표
 
